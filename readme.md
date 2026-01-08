@@ -1,1 +1,1 @@
-
+The Chat Exporter extension stores all data locally on your computer. No data is transmitted to external servers. Your chat history is processed in your browser memory solely for the purpose of creating the export file.
